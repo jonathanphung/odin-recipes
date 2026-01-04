@@ -8,3 +8,7 @@ Hopefully, by the end of the project, I have used:
 - italics (emphasis tags)
 - entities (&amp;, &lt;, &gt;)
 - images 
+
+Reflection:
+
+Completely forgot to use entities (oops), but everything else was used! Noreferrer and noopener attributes were used in links citing the original recipe's website.
