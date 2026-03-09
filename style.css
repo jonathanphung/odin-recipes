@@ -1,0 +1,27 @@
+body {
+    margin:auto;
+    font-size:18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title {
+    text-align:center;
+}
+
+.pages {
+    box-sizing:border-box;
+    width: 593.25px;
+    display:block;
+    background-color:antiquewhite;
+    border-color:black;
+    padding:30px;
+    margin: auto;
+}
+
+.page {
+    text-align:center;
+    padding:8px 30px;
+    background-color:moccasin;
+    border: 10px;
+    border-color:black;
+}
